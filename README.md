@@ -1,4 +1,4 @@
-# 🧊 Voxel Architect v4.1  
+# 🧊 GESTURE CAD
 ### Gesture-Driven 3D Construction System (Browser-Native)
 
 Voxel Architect is an experimental, real-time voxel modeling environment controlled entirely through **hand gestures**, without a mouse, keyboard, or controller.
