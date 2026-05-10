@@ -1,12 +1,6 @@
 
 
 # 🧊 GESTURE CAD
-### 🎯 Gesture-Driven 3D Construction System
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Online-success?style=for-the-badge&logo=web&logoColor=white)](https://gesturecad-demo.netlify.app)
-[![GitHub stars](https://img.shields.io/github/stars/username/gesturecad?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username/gesturecad)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=unlicense&logoColor=white)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Web_Browser-informational?style=for-the-badge&logo=firefox&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API)
 
 > **Revolutionary browser-native 3D modeling controlled entirely through hand gestures**  
 > Build, erase, and manipulate voxel structures in mid-air without touching mouse or keyboard
